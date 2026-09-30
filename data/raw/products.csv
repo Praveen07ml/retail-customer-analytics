@@ -1,0 +1,251 @@
+product_id,category,sub_category,brand,cost_price,stock_quantity
+P0001,Grocery,Household,Apex,204.97,465
+P0002,Home & Kitchen,Kitchen,TechOne,135.66,418
+P0003,Home & Kitchen,Appliances,Zenith,226.1,150
+P0004,Fashion,Accessories,Nova,399.4,156
+P0005,Grocery,Household,TechOne,127.46,306
+P0006,Grocery,Beverages,Nova,127.46,138
+P0007,Beauty,Skincare,PrimeLife,414.26,5
+P0008,Fashion,Accessories,TechOne,244.41,350
+P0009,Fashion,Men,FreshMart,109.38,392
+P0010,Fashion,Women,StyleHub,211.17,254
+P0011,Fashion,Women,HomePro,109.81,218
+P0012,Home & Kitchen,Appliances,FreshMart,109.65,379
+P0013,Fashion,Accessories,Apex,173.69,137
+P0014,Home & Kitchen,Storage,StyleHub,42.79,242
+P0015,Fashion,Women,PrimeLife,48.37,466
+P0016,Fashion,Women,Nova,102.98,214
+P0017,Electronics,Accessories,DailyChoice,76.83,277
+P0018,Electronics,Laptops,FreshMart,182.05,68
+P0019,Electronics,Audio,FreshMart,82.25,371
+P0020,Home & Kitchen,Appliances,FreshMart,59.26,146
+P0021,Electronics,Smartphones,DailyChoice,384.78,473
+P0022,Beauty,Haircare,Nova,128.16,77
+P0023,Grocery,Beverages,DailyChoice,155.07,387
+P0024,Grocery,Household,Apex,58.79,223
+P0025,Home & Kitchen,Storage,PrimeLife,104.18,330
+P0026,Beauty,Haircare,FreshMart,159.51,370
+P0027,Fashion,Women,Nova,70.24,220
+P0028,Beauty,Skincare,DailyChoice,189.46,339
+P0029,Fashion,Men,TechOne,100.44,173
+P0030,Electronics,Laptops,Apex,122.78,370
+P0031,Electronics,Laptops,TechOne,100.37,389
+P0032,Electronics,Smartphones,Zenith,494.71,293
+P0033,Grocery,Snacks,PrimeLife,147.12,32
+P0034,Electronics,Laptops,PrimeLife,74.63,48
+P0035,Home & Kitchen,Kitchen,DailyChoice,253.32,383
+P0036,Fashion,Men,DailyChoice,67.12,275
+P0037,Home & Kitchen,Storage,TechOne,169.99,213
+P0038,Grocery,Household,HomePro,41.52,152
+P0039,Electronics,Smartphones,FreshMart,62.59,56
+P0040,Grocery,Beverages,Zenith,168.67,284
+P0041,Grocery,Staples,HomePro,239.85,158
+P0042,Fashion,Women,Nova,165.9,21
+P0043,Beauty,Haircare,FreshMart,137.67,475
+P0044,Grocery,Household,StyleHub,122.03,326
+P0045,Grocery,Household,Apex,56.77,425
+P0046,Fashion,Footwear,HomePro,92.95,326
+P0047,Beauty,Cosmetics,HomePro,110.01,383
+P0048,Fashion,Men,FreshMart,295.05,222
+P0049,Home & Kitchen,Appliances,,185.56,337
+P0050,Home & Kitchen,Kitchen,FreshMart,47.18,72
+P0051,Beauty,Haircare,PrimeLife,183.21,38
+P0052,Home & Kitchen,Appliances,Nova,115.55,156
+P0053,Electronics,Smartphones,Zenith,95.58,83
+P0054,Grocery,Beverages,TechOne,220.87,111
+P0055,Electronics,Audio,StyleHub,290.08,480
+P0056,Grocery,Staples,UrbanX,271.87,241
+P0057,Grocery,Household,PrimeLife,86.01,422
+P0058,Beauty,Cosmetics,FreshMart,121.39,353
+P0059,Grocery,Staples,PrimeLife,184.07,263
+P0060,Home & Kitchen,Kitchen,TechOne,279.81,10
+P0061,Electronics,Laptops,HomePro,108.69,216
+P0062,Beauty,Skincare,,131.54,361
+P0063,Electronics,Smartphones,Nova,72.3,178
+P0064,Home & Kitchen,Appliances,TechOne,68.2,172
+P0065,Home & Kitchen,Storage,Apex,251.68,446
+P0066,Electronics,Smartphones,DailyChoice,358.37,323
+P0067,Electronics,Audio,PrimeLife,141.63,138
+P0068,Home & Kitchen,Appliances,TechOne,284.95,363
+P0069,Electronics,Audio,TechOne,187.74,352
+P0070,Home & Kitchen,Storage,FreshMart,97.58,87
+P0071,Grocery,Staples,Nova,187.71,230
+P0072,Beauty,Personal Care,PrimeLife,403.32,421
+P0073,Beauty,Personal Care,Apex,145.0,439
+P0074,Home & Kitchen,Appliances,TechOne,410.35,455
+P0075,Home & Kitchen,Storage,Apex,30.0,109
+P0076,Beauty,Personal Care,,253.21,258
+P0077,Fashion,Men,TechOne,157.05,467
+P0078,Beauty,Haircare,HomePro,122.2,232
+P0079,Electronics,Laptops,HomePro,157.53,282
+P0080,Fashion,Men,Nova,40.78,498
+P0081,Electronics,Laptops,PrimeLife,128.67,339
+P0082,Grocery,Snacks,Apex,187.19,460
+P0083,Home & Kitchen,Appliances,UrbanX,387.85,344
+P0084,Grocery,Snacks,DailyChoice,105.97,459
+P0085,Home & Kitchen,Storage,FreshMart,87.75,372
+P0086,Electronics,Accessories,DailyChoice,107.11,362
+P0087,Electronics,Accessories,StyleHub,269.08,252
+P0088,Beauty,Skincare,Nova,183.77,216
+P0089,Fashion,Women,,105.18,325
+P0090,Grocery,Staples,,207.19,126
+P0091,Electronics,Laptops,StyleHub,158.08,310
+P0092,Beauty,Personal Care,UrbanX,278.56,235
+P0093,Grocery,Staples,DailyChoice,94.03,496
+P0094,Grocery,Household,,119.94,436
+P0095,Grocery,Snacks,TechOne,115.02,354
+P0096,Fashion,Footwear,StyleHub,57.32,91
+P0097,Electronics,Laptops,HomePro,179.91,192
+P0098,Fashion,Accessories,TechOne,175.86,196
+P0099,Home & Kitchen,Home Decor,,148.91,424
+P0100,Electronics,Laptops,DailyChoice,127.42,229
+P0101,Home & Kitchen,Home Decor,FreshMart,59.15,259
+P0102,Grocery,Snacks,DailyChoice,112.91,166
+P0103,Home & Kitchen,Home Decor,HomePro,118.78,321
+P0104,Electronics,Accessories,Zenith,88.1,453
+P0105,Home & Kitchen,Kitchen,StyleHub,133.64,137
+P0106,Beauty,Haircare,FreshMart,192.99,210
+P0107,Beauty,Cosmetics,UrbanX,505.74,391
+P0108,Beauty,Personal Care,StyleHub,166.25,11
+P0109,Grocery,Staples,TechOne,175.46,400
+P0110,Grocery,Household,Zenith,141.4,351
+P0111,Beauty,Cosmetics,TechOne,42.64,180
+P0112,Grocery,Beverages,HomePro,145.88,141
+P0113,Electronics,Laptops,FreshMart,154.34,410
+P0114,Grocery,Beverages,UrbanX,735.91,210
+P0115,Beauty,Haircare,Zenith,130.97,429
+P0116,Beauty,Cosmetics,Apex,180.55,204
+P0117,Grocery,Staples,HomePro,145.1,149
+P0118,Grocery,Staples,,69.43,148
+P0119,Fashion,Men,FreshMart,311.95,85
+P0120,Grocery,Household,Nova,241.96,167
+P0121,Home & Kitchen,Kitchen,Nova,248.18,83
+P0122,Beauty,Haircare,StyleHub,82.18,20
+P0123,Beauty,Personal Care,Zenith,369.38,283
+P0124,Grocery,Staples,Nova,59.67,430
+P0125,Grocery,Snacks,Zenith,217.34,273
+P0126,Fashion,Footwear,TechOne,616.34,53
+P0127,Home & Kitchen,Kitchen,TechOne,77.96,449
+P0128,Grocery,Snacks,Nova,102.71,168
+P0129,Beauty,Cosmetics,TechOne,158.34,282
+P0130,Home & Kitchen,Storage,Zenith,106.99,426
+P0131,Electronics,Audio,HomePro,54.17,443
+P0132,Home & Kitchen,Kitchen,PrimeLife,155.18,473
+P0133,Beauty,Cosmetics,Nova,74.4,24
+P0134,Electronics,Laptops,Nova,201.91,347
+P0135,Fashion,Accessories,,81.64,52
+P0136,Grocery,Beverages,Apex,406.45,8
+P0137,Fashion,Accessories,Zenith,89.2,49
+P0138,Grocery,Beverages,FreshMart,120.38,98
+P0139,Beauty,Cosmetics,HomePro,251.84,229
+P0140,Grocery,Staples,TechOne,66.68,389
+P0141,Beauty,Skincare,UrbanX,172.06,271
+P0142,Beauty,Haircare,HomePro,347.11,449
+P0143,Electronics,Smartphones,UrbanX,52.2,323
+P0144,Home & Kitchen,Storage,DailyChoice,167.34,454
+P0145,Electronics,Smartphones,Apex,175.73,138
+P0146,Fashion,Footwear,Zenith,246.7,67
+P0147,Grocery,Staples,HomePro,66.42,247
+P0148,Fashion,Footwear,HomePro,62.91,286
+P0149,Beauty,Cosmetics,PrimeLife,208.36,154
+P0150,Electronics,Accessories,PrimeLife,180.01,403
+P0151,Home & Kitchen,Kitchen,DailyChoice,174.66,466
+P0152,Fashion,Accessories,StyleHub,185.9,70
+P0153,Fashion,Accessories,PrimeLife,95.39,94
+P0154,Home & Kitchen,Kitchen,,172.6,4
+P0155,Fashion,Women,Apex,179.56,477
+P0156,Fashion,Accessories,Nova,93.29,132
+P0157,Beauty,Cosmetics,StyleHub,499.07,461
+P0158,Beauty,Cosmetics,TechOne,201.94,147
+P0159,Fashion,Footwear,FreshMart,68.42,114
+P0160,Grocery,Household,DailyChoice,227.41,87
+P0161,Electronics,Laptops,TechOne,78.76,115
+P0162,Fashion,Men,StyleHub,247.55,425
+P0163,Electronics,Laptops,Zenith,315.16,170
+P0164,Fashion,Women,,87.06,85
+P0165,Grocery,Staples,Nova,277.6,379
+P0166,Home & Kitchen,Storage,PrimeLife,194.09,337
+P0167,Home & Kitchen,Kitchen,UrbanX,253.24,475
+P0168,Beauty,Haircare,PrimeLife,509.24,324
+P0169,Beauty,Personal Care,,126.53,217
+P0170,Fashion,Women,FreshMart,90.93,177
+P0171,Grocery,Beverages,DailyChoice,83.25,283
+P0172,Fashion,Women,PrimeLife,87.33,299
+P0173,Fashion,Women,DailyChoice,141.16,71
+P0174,Fashion,Men,HomePro,185.26,59
+P0175,Grocery,Beverages,StyleHub,177.66,188
+P0176,Grocery,Staples,StyleHub,254.09,34
+P0177,Electronics,Audio,Nova,149.67,270
+P0178,Electronics,Audio,Zenith,381.76,306
+P0179,Electronics,Audio,StyleHub,124.96,232
+P0180,Fashion,Footwear,StyleHub,869.67,117
+P0181,Fashion,Women,DailyChoice,222.89,395
+P0182,Home & Kitchen,Home Decor,StyleHub,85.02,447
+P0183,Grocery,Beverages,UrbanX,73.99,426
+P0184,Beauty,Skincare,DailyChoice,203.08,297
+P0185,Fashion,Accessories,Apex,128.35,133
+P0186,Fashion,Women,,236.06,170
+P0187,Home & Kitchen,Storage,TechOne,201.87,273
+P0188,Electronics,Laptops,Apex,141.55,63
+P0189,Grocery,Snacks,HomePro,85.59,42
+P0190,Electronics,Laptops,Apex,55.44,422
+P0191,Grocery,Snacks,HomePro,111.03,479
+P0192,Electronics,Accessories,TechOne,258.96,273
+P0193,Home & Kitchen,Kitchen,,170.57,406
+P0194,Home & Kitchen,Storage,TechOne,66.04,243
+P0195,Home & Kitchen,Kitchen,Zenith,166.1,423
+P0196,Grocery,Household,PrimeLife,190.65,161
+P0197,Electronics,Audio,PrimeLife,83.55,62
+P0198,Beauty,Cosmetics,HomePro,164.01,167
+P0199,Home & Kitchen,Home Decor,Apex,154.14,247
+P0200,Grocery,Staples,,70.6,262
+P0201,Grocery,Staples,DailyChoice,187.27,217
+P0202,Beauty,Haircare,Zenith,213.69,142
+P0203,Beauty,Personal Care,UrbanX,300.06,376
+P0204,Beauty,Personal Care,HomePro,294.41,477
+P0205,Home & Kitchen,Storage,FreshMart,60.61,477
+P0206,Electronics,Audio,Apex,80.67,107
+P0207,Beauty,Haircare,FreshMart,207.43,309
+P0208,Grocery,Beverages,HomePro,207.26,322
+P0209,Beauty,Cosmetics,DailyChoice,207.43,26
+P0210,Grocery,Staples,Nova,1815.79,57
+P0211,Electronics,Audio,StyleHub,215.09,116
+P0212,Grocery,Staples,TechOne,310.48,463
+P0213,Home & Kitchen,Home Decor,PrimeLife,275.92,48
+P0214,Electronics,Accessories,TechOne,226.65,148
+P0215,Fashion,Women,Zenith,120.91,199
+P0216,Fashion,Footwear,FreshMart,243.07,384
+P0217,Grocery,Household,FreshMart,89.81,189
+P0218,Beauty,Haircare,TechOne,127.24,466
+P0219,Fashion,Accessories,DailyChoice,108.26,325
+P0220,Grocery,Beverages,TechOne,156.53,64
+P0221,Grocery,Staples,FreshMart,668.16,26
+P0222,Home & Kitchen,Appliances,UrbanX,44.09,225
+P0223,Grocery,Household,TechOne,231.85,311
+P0224,Electronics,Laptops,Zenith,52.03,270
+P0225,Grocery,Snacks,FreshMart,109.21,464
+P0226,Beauty,Skincare,StyleHub,301.21,7
+P0227,Fashion,Footwear,Zenith,154.75,473
+P0228,Fashion,Men,Zenith,73.66,406
+P0229,Home & Kitchen,Storage,StyleHub,93.23,389
+P0230,Home & Kitchen,Storage,TechOne,230.84,53
+P0231,Electronics,Laptops,Apex,92.32,326
+P0232,Electronics,Laptops,TechOne,170.83,257
+P0233,Fashion,Accessories,TechOne,152.88,58
+P0234,Electronics,Laptops,FreshMart,97.17,251
+P0235,Grocery,Staples,Zenith,597.98,483
+P0236,Fashion,Men,Nova,224.09,377
+P0237,Grocery,Snacks,UrbanX,39.79,227
+P0238,Beauty,Skincare,DailyChoice,167.54,161
+P0239,Home & Kitchen,Storage,HomePro,96.53,299
+P0240,Home & Kitchen,Appliances,DailyChoice,258.29,45
+P0241,Fashion,Men,StyleHub,88.66,492
+P0242,Electronics,Audio,Apex,137.75,64
+P0243,Beauty,Skincare,UrbanX,206.08,62
+P0244,Grocery,Snacks,FreshMart,260.54,40
+P0245,Electronics,Laptops,TechOne,68.02,64
+P0246,Grocery,Household,Zenith,119.41,68
+P0247,Fashion,Footwear,UrbanX,108.99,124
+P0248,Beauty,Skincare,FreshMart,97.06,30
+P0249,Grocery,Beverages,TechOne,467.57,408
+P0250,Electronics,Smartphones,Nova,193.11,145

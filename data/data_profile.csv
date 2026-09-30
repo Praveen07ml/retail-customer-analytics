@@ -1,0 +1,8 @@
+file,rows,columns
+customers.csv,5025,7
+transactions.csv,40080,9
+products.csv,250,6
+stores.csv,24,5
+returns.csv,3200,5
+campaigns.csv,12000,7
+loyalty.csv,5000,5
